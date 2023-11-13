@@ -9,8 +9,8 @@ import "./App.css";
 
 function App() {
 
-  const name = "Hyeon Jeon"
-  const studentNum = "2020-2XXXX"
+  const name = "Yeongin Kim"
+  const studentNum = "2023-23910"
 
 
   const mainWidth = 200;
